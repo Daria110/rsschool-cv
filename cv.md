@@ -23,3 +23,18 @@ I'm self-motivated, responsible and hard working person. Currently, I am a fourt
 * HTML 
 * CSS
 * JavaScript (basics)
+
+## **Code example**
+```
+describe("Multiply", () => {
+  it("fixed tests", () => {
+    assert.strictEqual(multiply(1,1), 1);
+    assert.strictEqual(multiply(2,1), 2);
+    assert.strictEqual(multiply(2,2), 4);
+    assert.strictEqual(multiply(3,5), 15);   
+  });
+});
+```
+## **Experience**
+
+I don’t have the experience yet.
