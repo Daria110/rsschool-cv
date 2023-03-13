@@ -38,3 +38,13 @@ describe("Multiply", () => {
 ## **Experience**
 
 I don’t have the experience yet.
+
+## **Education**
+* 2016-2019 - Minsk State College of Electronics, secretary-referent
+* 2019-2024 - Belarusian State Economic University, economist-manager
+
+## **Languages**
+* English - B1
+* Deutsch - A1
+* Russian - Native
+* Belarussian - Native
